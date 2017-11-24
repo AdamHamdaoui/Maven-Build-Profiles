@@ -1,15 +1,5 @@
 <settings>
 <servers>
-    <server>
-      <id>releaseRepo</id>
-      <username>admin</username>
-      <password>admin123</password>
-</server>
-    <server>
-      <id>snapshotRepo</id>
-      <username>admin</username>
-      <password>admin123</password>
-</server>
 <server>
       <id>TomcatServer1</id>
       <username>tomcat1</username>
