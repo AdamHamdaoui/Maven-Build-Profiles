@@ -19,7 +19,7 @@
 <profiles>
 
 <profile>
-<id>DEV</id>
+<id>dev</id>
 <build>
 <plugins>
 <plugin>
@@ -37,7 +37,7 @@
 </profile>
 
 <profile>
-<id>QA</id>
+<id>qa</id>
 <build>
 <plugins>
 <plugin>
